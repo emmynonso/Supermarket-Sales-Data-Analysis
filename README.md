@@ -70,6 +70,7 @@ By understanding these factors and acting upon them, you can transform recent se
 opportunity for strategic realignment and renewed growth.
 
 **TOTAL PROFIT PER ITEM NAME:** 💹
+
 ![image](https://github.com/user-attachments/assets/f642290c-62d2-4d1a-a5b8-4b3b6ca8f047)
 
 **KEY INSIGHTS:**
@@ -92,6 +93,7 @@ waste and improve efficiency may also help reverse the downward trend in profit.
 range to mitigate dependency on a narrow set of offerings, which may prove vulnerable to shifts in market demand.
 
 **TOTAL SALES BY CATEGORY NAME** 📋
+
 ![image](https://github.com/user-attachments/assets/38bfa3b9-b575-48a8-bd4d-06c97ee22bb9)
 
 **KEY INSIGHT** 📊
@@ -102,6 +104,7 @@ This donut chart represents Total Sales Per Category Name, showing how different
 To maximize sales and balance category contributions, the business should increase strategic efforts for lower-performing categories like Capsicum and Edible Mushrooms through better marketing, promotions, or improved distribution strategies. Since Flower/Leaf Vegetables and Solanum already perform well, they should be prioritized in inventory and sales expansion. Understanding consumer preferences and adjusting pricing strategies can further improve overall revenue stability across all categories.
 
 **PROFIT TREND ACCUMULATED OVER FOUR YEARS** 💰💹
+
 ![image](https://github.com/user-attachments/assets/e152ad6f-f3c4-4b28-94a6-cee50394092c)
 
 **KEY INSIGHT** 📊
@@ -112,7 +115,8 @@ The chart, titled "Profit Trend and Total Quantity Sold Accumulated Over Four Ye
 
 Given the insights, several targeted actions are recommended. First, it is imperative to perform a deep-dive analysis into the significant loss of both profit and sales between 2020 and 2021, as well as the decline seen again in 2023. This investigation should include market dynamics, competitive pressures, and potential internal operational challenges. Second, the slight recovery observed in 2022 may offer clues as to effective strategies; thus, replicating the tactics from that period—such as any improved marketing initiatives or optimized pricing strategies—could help sustain sales and profit improvements. Third, a review of the supply chain and product mix is essential to understand whether stock-outs, quality issues, or other supply constraints might be contributing to the drastic declines. Lastly, reinvigorating customer engagement through targeted promotions, loyalty programs, or revising pricing models to reflect real market demand could help stabilize the downward trend and rebuild both revenue and profit over time.
 
-**TOTAL PROFIT AND QUANTITY SOLD PER ITEM NAME**
+**TOTAL PROFIT AND QUANTITY SOLD PER ITEM NAME** 💸🛒
+
 ![image](https://github.com/user-attachments/assets/c84c32ce-e10f-47e0-afbb-b0ca1a42d29d)
 
 **KEY INSIGHT** 📊
@@ -127,6 +131,7 @@ Simultaneously, take a closer look at those products struggling to generate prof
 Finally, consider a diversification approach that leverages the strengths of your best sellers while nurturing the growth potential of underperformers. Targeted marketing campaigns or product bundling strategies might help raise the profile of the less successful items, ultimately leading to a more balanced and robust sales performance.
 
 **TOTAL QUANTITY SOLD BY SALE OR RETURN STATUS** 💼
+
 ![image](https://github.com/user-attachments/assets/c3ed603d-1e9d-4444-a095-0d673b3b903f)
 
 **KEY INSIGHT** 📝
@@ -146,6 +151,7 @@ the data being analyzed paints a picture of a business facing several challenges
 Based on these insights, a few data-driven actions seem essential. Begin with a detailed diagnostic review of the factors that led to the pronounced revenue drop: assess external market trends, scrutinize competitor behaviors, and evaluate changes in customer preferences; this will help pinpoint the real drivers of decline. Next, for the inconsistent performance across products, perform a comparative analysis to identify best practices from top performers, then replicate or adjust strategies for the underperformers—whether that involves optimizing the pricing strategy, revising production or supply chain processes, or perhaps even rethinking the product portfolio altogether. Furthermore, implementing dedicated customer feedback loops and quality control measures can help uncover and mitigate issues causing returns. Lastly, consider bolstering marketing initiatives and diversifying offerings to capture different segments of demand and reduce dependency on a narrow range of products.
 
 **CONCLUSION**
+
 The sales data tells a clear story. Initially, things looked promising with good revenue and strong sales. However, after reaching a peak, revenue steadily dropped in the following years. This decline may be caused by external factors like market conditions or shifts in customer behavior, as well as internal issues such as operational challenges and inconsistent product performance.
 To turn things around, it's important to clearly understand what led to the drop. Investigate external trends and internal processes—like pricing, production costs, and product quality—to identify problem areas. Focus on the products that are doing well, and try to apply their successful strategies to the weaker ones. Finally, gathering customer feedback and tightening quality control can help improve overall performance.
 In simple terms, by pinpointing the causes of the revenue decline and addressing them with targeted actions, the business can rebuild its growth and improve its future prospects.
