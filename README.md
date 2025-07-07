@@ -11,8 +11,6 @@ decisions
 
 • Understand customer behavior by identifying patterns in purchases, best-selling categories, and
 discount effectiveness
-
 • Optimize inventory management by analyzing loss rates and returns, reducing stock waste
-
 • Improve business efficiency by ensuring resources are allocated effectively based on data-backed
 insights.
