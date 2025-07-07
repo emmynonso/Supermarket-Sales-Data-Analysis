@@ -1,7 +1,7 @@
 # Supermarket-Sales-Data-Analysis
 The purpose of this Sales Tracker Analysis is to provide data-driven insights that optimize business decision-making in sales, pricing, inventory, and profitability.
 
-PURPOSE: The purpose of your Sales Tracker Analysis is to provide data-driven insights that optimize
+**PURPOSE:** The purpose of your Sales Tracker Analysis is to provide data-driven insights that optimize
 business decision-making in sales, pricing, inventory, and profitability. Specifically, this analysis aims to:
 
 * Monitor sales performance by tracking revenue, profit margins, and sales trends over time
