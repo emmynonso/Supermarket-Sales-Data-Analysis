@@ -44,3 +44,22 @@ time.
 **TOTAL REVENUE PER YEAR:**
 
 ![image](https://github.com/user-attachments/assets/7d8c80e4-3855-43f2-90be-e8af71f98e06)
+
+**KEY INSIGHT**
+Imagine your revenue performance as a journey. In 2020, the business was sailing smoothly with modest
+revenues. In 2021, a strong wind propelled it to a peak of around $1.1M, suggesting robust market
+conditions or successful strategies. However, by 2022, the winds began to slacken, and revenues fell to
+about $0.9M. In 2023, a fierce headwind emerged, dropping revenues further to $0.6M. This decline hints
+at challenges impacting the business's momentum.
+What could have caused this downturn? It might be a combination of broader economic headwinds
+reducing consumer spending, intensifying market competition, or even internal operational disruptions—
+like supply chain issues or inefficiencies—that stifled the earlier momentum. Shifts in consumer
+preferences or regulatory changes increasing costs may also have played a role.
+**RECOMMENDATION**
+To steer the business back on course, start by conducting a thorough market analysis to pinpoint external
+factors like economic trends and competitor strategies. Reassess your pricing model and cost structure to
+ensure competitiveness without eroding margins. Evaluate your operational processes to identify and
+remedy any inefficiencies, whether in production, distribution, or supply chain management. Moreover,
+investing in product innovation and targeted marketing campaigns could help regain consumer
+confidence and stimulate demand. Diversifying the product portfolio might also reduce the impact if one
+segment faces issues, creating additional revenue streams to hedge against market volatility.
