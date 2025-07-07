@@ -31,3 +31,16 @@ To enhance insights, we added slicers for sales or return, discount rate and dat
 data segmentation and trend analysis across different products.
 * DAX Measure: DAX was used to create new measures for Total Profit, Total Revenue, Total Cost
 and Profit Margin.
+
+**KEY PERFORMANCE INDICATORS OVERVIEW:**
+The key performance indicators (KPIs) obtained from the analysis were;
+* TOTAL REVENUE: This is the total sum earned from the supermarket sales over the stipulated
+time.
+* TOTAL PROFIT: This is the net profit realized after sales and other expenses has been factored in.
+* AVERAGE UNIT SELLING COST: The average selling cost for the products available.
+* AVERAGE LOSS RATE: This is the average loss rate for all products during sales time.
+
+**KEY INSIGHTS AND ANALYSIS**
+**TOTAL REVENUE PER YEAR:**
+
+![image](https://github.com/user-attachments/assets/7d8c80e4-3855-43f2-90be-e8af71f98e06)
