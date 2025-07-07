@@ -13,7 +13,7 @@ discount effectiveness
 * Improve business efficiency by ensuring resources are allocated effectively based on data-backed
 insights.
 
-METHODOLOGY
+**METHODOLOGY**
 1. DATA SOURCES
 Data was collected an online platform named Kaggle, after which it was imported into Power BI
 for cleaning, modelling and visualization.
