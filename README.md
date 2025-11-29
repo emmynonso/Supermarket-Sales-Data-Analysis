@@ -41,6 +41,7 @@ time.
 * AVERAGE LOSS RATE: This is the average loss rate for all products during sales time.
 
 **KEY INSIGHTS AND ANALYSIS**
+
 **TOTAL REVENUE PER YEAR:** 📉
 
 ![image](https://github.com/user-attachments/assets/7d8c80e4-3855-43f2-90be-e8af71f98e06)
